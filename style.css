@@ -1,0 +1,312 @@
+.all{margin: 7% auto 5%;
+    width: 80%;
+
+}
+.who{
+    display: inline-block;
+    margin-left:6% ;
+    margin-top: 0;
+    width: 550px;
+    vertical-align: top;
+}
+.h{
+    font-family: "Alegreya", serif;
+    font-weight: 100;
+    font-size: 2rem ;
+
+}
+.p{
+    text-align: left ;
+    font-size: 1.6rem;
+    color: rgb(121, 122, 124);
+    font-size: 1rem;
+    font-family: "Alegreya", serif;
+    width: 100%;
+    
+}
+li{
+    font-size: 1.2rem;
+    color: rgb(74, 75, 76);
+}
+.d1{
+    display: inline-block;
+    width: 560px; 
+    
+}
+
+
+
+.h1{
+    text-align: center;
+    font-family: "Alegreya", serif;
+    font-weight: 100;
+    font-size: 1.9rem;
+    margin-top: 20%;
+}
+.p1{
+    text-align: center;
+    font-size: medium;
+    color: rgb(159, 160, 161);
+
+}
+.all{
+    margin: 4% auto;
+    width: 80%;
+}
+.d2{
+    width: 370;
+    display: inline-block;
+}
+.d3{width: 370;
+    display: inline-block;
+    margin-left: 3%;}
+.d4{width: 370; 
+    display: inline-block;
+    margin-left: 3%;
+    }
+.h2{
+    font-family: "Alegreya", serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: center;
+
+}
+.img{
+    width: 100%;
+} 
+.total{
+   margin-top: 25%;
+    background-color: #f8f8f8;
+    width: 100%;
+
+}
+.ditotal{
+display: inline-block;
+width: 40%;
+vertical-align: top;
+margin-left: 10%;
+}
+.ditotal2{
+    display: inline-block;
+    width: 560px;
+}
+.body{margin: 0;}
+.img2{
+    width: 100%;padding-top: 13%;padding-bottom: 13%;
+    }
+.p4{
+   vertical-align: left ;
+    font-size: 1.6rem;
+    color: rgb(121, 122, 124);
+    font-size: 1rem;
+    font-family: "Alegreya", serif;
+    width: 100%;
+}
+.logo{
+    /* background-color: aqua; */
+    width: 30%;
+    display: inline-block;
+    margin-left: 10%;
+    padding-top: 1.7%;
+    vertical-align:top ;
+}
+.background{
+    height: 100vh;
+    background-position:center center;
+    background-size: cover;
+    background-image: url(images/drew-coffman-1872.jpg);
+    margin-bottom: 9% ;
+}
+
+.lil{
+    width: 30%;
+    display: inline-block;
+    margin-left:15% ;
+    padding-left: 4%;
+    padding-top: 1.7%;
+    
+}
+.l3{
+    display: inline-block;
+    padding-left: 12px;
+    font-size: 1.2rem;
+    color: white;
+}
+.content{
+   text-align: center;
+   margin-bottom: 80px;
+   padding-top: 170px;
+
+
+}
+.head{
+    font-family: "Alegreya", serif;
+    font-size: 4.3rem;
+    color: aliceblue;
+    /* background-color: aqua; */
+    padding-top: 0px;
+    font-weight: 100;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    
+}
+.phead{
+    font-size: 1.4rem;
+    color: aliceblue;
+     ;
+}
+.pheadd{
+     font-size: 1.4rem;
+     /* background-color: aquamarine; */
+    color: rgb(255, 255, 255);
+    
+}
+.button{
+    
+    width:20% ;
+    margin: 20px auto;
+    /* background-color: aqua; */
+}
+.btm{
+    margin:auto ;
+    border-radius: 4px;
+    width: 129px;
+    height: 59px;
+    padding: 5%;
+    font-weight: 700;
+    font-family: "Alegreya", serif;
+    font-size: medium;
+    color: white;
+    margin-bottom: 40px;
+    
+    
+}
+.btm2{
+    background-color: transparent;
+    border-color: white;
+    margin-left: 4%;
+    border-style: solid;
+}
+.btm1{
+    background-color: #8e7754;
+    border-style: solid;
+    border-color: #8e7754;
+}
+.dot{border-radius: 24px;
+    padding: 13px; 
+    height: 19;
+    border-width: 0.1px;
+    display: block;
+    border:2px solid rgba(255, 255, 255, 0.7);
+    margin: 0 auto;
+    width:0.2 ;
+}
+.elom{
+    background-color: #f8f8f8;
+    margin-top: 20%;
+}
+.all2{
+    width:90%;
+    margin: auto;
+    padding-top: 5%;
+    height: 90%;
+    
+
+}
+.location{
+ display: inline-block ;
+ width: 40%;
+ text-align: center;
+ vertical-align: top;
+ /* background-color: #8e7754; */
+ padding-left: 4.5%;
+ margin-right: 2%;
+ padding-bottom: 9%;
+ padding-top: 0;
+}
+.map{
+    float: right;
+    width: 45%;
+    height: 50%;
+    /* background-color: aqua; */
+    padding-bottom: 3%;
+
+}
+.cb{
+background-color:#403d38;
+height:60% ;
+}
+.contactinfo{
+    width: 95%;
+    margin: auto;
+    padding-top:50px ;
+    padding-bottom: 6%;
+    /* background-color: aquamarine; */
+}
+.c{
+    width: 20%;
+    display: inline-block;
+    margin-left: 3%;
+    padding-top: 0.2%;
+    height: 15%;
+    vertical-align: top;
+    /* background-color: #969696; */
+}
+.hs{
+    color: white;
+    font-size: 1.1rem;
+    font-family: "Alegreya", serif;
+    font-weight: 100;
+    text-align: left;
+    vertical-align: top;
+    
+}
+.ps{
+    font-family: "Alegreya", serif;
+    color:#969696;
+    font-size: 1rem;
+    list-style: none;
+    vertical-align: left;
+    /* background-color: #8e7754; */
+}
+.c4{
+    background-image: url(images/contact-details-map.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: fit-content;
+    
+}
+.layer{
+    width: 100%;
+    background-color: #523b15;
+
+}
+.final{
+    background-color:#353330 ;
+    margin-top: 0;
+    height: 50%;
+    
+}
+.fi{
+    width: 350px;
+    margin: 150 auto;
+    display: inline-block;
+    margin-left: 37%;
+    margin-bottom: 2%;
+    
+}
+.pa{
+    text-align: center;
+    font-family: "Alegreya", serif;
+    color:#969696;
+    font-size: 1rem;
+    margin:  auto;
+    display:block;}
+.pl{
+    font-family: "Alegreya", serif;
+    text-align: left;
+    font-size: 1.2rem;
+    color: rgb(101, 103, 103);
+}
